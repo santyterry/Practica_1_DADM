@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz Android</string>
+    <string name="t_bienvenida">Welcome to the app to validate your Android knowledge</string>
+    <string name="h_nombre">Insert your name</string>
+    <string name="inico_aplicacion">Begin</string>
+    <string name="acerca_de">App developed by Santiago Moltó</string>
+    <string name="paso1">Step 1</string>
+    <string name="paso2">Step 2</string>
+    <string name="paso3">Step 3</string>
+    <string name="enunciado_1">1. What was the first version of Android to bring a dessert name?</string>
+    <string name="pregunta_1_opcion1">Almod</string>
+    <string name="pregunta_1_opcion2">Cupcake</string>
+    <string name="pregunta_1_opcion3">Brownie</string>
+    <string name="enunciado_2">2. In what year was Google made with Android Inc.?</string>
+    <string name="enunciado_3">3. What was the first smartphone to be commercialized with Android?</string>
+    <string name="t_siguiente">Next</string>
+    <string name="t_anterior">Previous</string>
+    <string name="descripcionImagen">Image Profile</string>
+    <string name="error_opcion">Error! Empty answer</string>
+    <string name="error_nombre">Error! Empty name</string>
+    <string name="paso4">Step 4</string>
+    <string name="enunciado_4">4. Which of these companies has not manufactured a Nexus?</string>
+    <string name="paso5">Step 5</string>
+    <string name="enunciado_5">5. What is the Android version for wearables called?</string>
+    <string name="paso6">Step 6</string>
+    <string name="enunciado_6">6. Which of the following names are NOT Android versions?</string>
+    <string name="paso7">Step 7</string>
+    <string name="paso8">Step 8</string>
+    <string name="paso9">Step 9</string>
+    <string name="paso10">Step 10</string>
+    <string name="enunciado_7">7. How many smartphones have launched the Nexus range?</string>
+    <string name="enunciado_8">8. What name was version 4.0 of Android?</string>
+    <string name="enunciado_9">9. The Hyundai car brand has offered a model with Android Auto, true or false?</string>
+    <string name="enunciado_10">10. What year was commercialized the first smartphone with Android?</string>
+    <string name="t_verdadero">True</string>
+    <string name="t_falso">False</string>
+    <string name="t_final">Your score is:</string>
+    <string name="t_de_nuevo">Restart</string>
+</resources>

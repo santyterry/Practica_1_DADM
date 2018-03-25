@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lista_smartphones">
+        <item>Samsung Galaxy</item>
+        <item>Nexus One</item>
+        <item>HTC Dream</item>
+    </string-array>
+
+    <string-array name="lista_comanyias">
+        <item>Samsung</item>
+        <item>HTC</item>
+        <item>Sony</item>
+    </string-array>
+    
+    <string-array name="lista_wearables">
+        <item>Android Watch</item>
+        <item>Android Wareable</item>
+        <item>Android Wear</item>
+        <item>Android Clock</item>
+    </string-array>
+
+    <string-array name="lista_versiones">
+        <item>Marshmallow</item>
+        <item>Lollipop</item>
+        <item>Froyo</item>
+        <item>Lime Cake</item>
+        <item>Gingerbread</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Chocolate Cake</item>
+    </string-array>
+
+</resources>

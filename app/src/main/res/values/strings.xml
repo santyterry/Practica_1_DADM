@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Quiz Android</string>
+    <string name="t_bienvenida">Bienvenidos a la aplicación para validar tu conocimiento de Android</string>
+    <string name="h_nombre">Introduzca su nombre</string>
+    <string name="acerca_de">Aplicación desarrollada por Santiago Moltó</string>
+    <string name="inico_aplicacion">Comenzar</string>
+    <string name="t_siguiente">Siguiente</string>
+    <string name="t_anterior">Anterior</string>
+    <string name="t_de_nuevo">Comenzar de nuevo</string>
+    <string name="paso1">Paso 1</string>
+    <string name="paso2">Paso 2</string>
+    <string name="paso3">Paso 3</string>
+    <string name="paso4">Paso 4</string>
+    <string name="paso5">Paso 5</string>
+    <string name="paso6">Paso 6</string>
+    <string name="paso7">Paso 7</string>
+    <string name="paso8">Paso 8</string>
+    <string name="paso9">Paso 9</string>
+    <string name="paso10">Paso 10</string>
+    <string name="enunciado_1">1. ¿Cúal fue la primera versión de Android en traer un nombre de postre?</string>
+    <string name="enunciado_2">2. ¿En qué año se hizo Google con Android Inc.?</string>
+    <string name="enunciado_3">3. ¿Cuál fue el primer smartphone en comercializarse con Android?</string>
+    <string name="enunciado_4">4. ¿Cuál de estas compañías no ha fabricado un Nexus?</string>
+    <string name="enunciado_5">5. ¿Cómo se llama la versión de Android para wearables?</string>
+    <string name="enunciado_6">6. ¿Cuál de los siguientes nombres NO son versiones de Android?</string>
+    <string name="enunciado_7">7. ¿Cuántos teléfonos se han lanzado de la gama Nexus?</string>
+    <string name="enunciado_8">8. ¿Qué nombre tenía la versión 4.0 de Android?</string>
+    <string name="enunciado_9">9. La marca de coches Hyundai ha ofrecido un modelo con Android Auto, ¿verdadero o falso?</string>
+    <string name="enunciado_10">10. ¿En qué año se comercializó el primer smartphone con Android?</string>
+    <string name="pregunta_1_opcion1">Almod</string>
+    <string name="pregunta_1_opcion2">Cupcake</string>
+    <string name="pregunta_1_opcion3">Brownie</string>
+    <string name="pregunta_6_opcion1" translatable="false">Marshmallow</string>
+    <string name="pregunta_6_opcion2" translatable="false">Chupachup</string>
+    <string name="pregunta_6_opcion3" translatable="false">Froyo</string>
+    <string name="pregunta_6_opcion4" translatable="false">Lime Cake</string>
+    <string name="pregunta_6_opcion5" translatable="false">Gingerbread</string>
+    <string name="descripcionImagen">Imagen Perfil</string>
+    <string name="error_opcion">¡Error! Respuesta vacía</string>
+    <string name="error_nombre">¡Error! Introduzca un nombre</string>
+    <string name="t_verdadero">Verdadero</string>
+    <string name="t_falso">Falso</string>
+    <string name="t_final">Su resultado ha sido el siguiente:</string>
+</resources>
